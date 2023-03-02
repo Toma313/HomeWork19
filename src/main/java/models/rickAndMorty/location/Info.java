@@ -1,6 +1,6 @@
-package models.rickAndMorty;
+package models.rickAndMorty.location;
 
-public class Info {
+public class Info{
     public int count;
     public int pages;
     public String next;
