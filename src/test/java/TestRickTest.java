@@ -28,6 +28,7 @@ public class TestRickTest {
         for (String l:listDemin){
             System.out.println(l);
         }
+        System.out.println("!! VOLOSHCHUK TAMARA RUN JOB: END JOB !!");
 
     }
 }
