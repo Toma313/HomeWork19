@@ -16,6 +16,7 @@ public class TestRickAndMortyModels {
 }
     @Test
     public void test1(){ //all body to console
+        System.out.println("VOLOSHCHUK TAMARA RUN JOB");
         String str = when()
                 .get()
                 .then().log().all().toString();

@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8956920c-18d7-416a-afe4-0c4e0356b702" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/MyOwnSpecificationForRA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/rickAndMorty/location/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/rickAndMorty/location/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestRickTest.java" afterDir="false" />
+    <list default="true" id="8956920c-18d7-416a-afe4-0c4e0356b702" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/rickAndMorty/Characters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/rickAndMorty/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/rickAndMorty/location/Info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/rickAndMorty/Location.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/rickAndMorty/Origin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/rickAndMorty/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRickAndMortyModels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRickAndMortyModels.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +40,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tamara.voloshchuk/IdeaProjects/AllureJunit2610"
+    "last_opened_file_path": "C:/Users/tamara.voloshchuk/IdeaProjects/HomeWork19"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.TestRickAndMortyModels">
+  <component name="RunManager" selected="JUnit.TestRickTest">
     <configuration name="RickTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork19" />
       <option name="PACKAGE_NAME" value="" />
@@ -84,16 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRickAndMortyModels.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork19" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestRickAndMortyModels" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestRickAndMortyModels.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork19" />
       <option name="PACKAGE_NAME" value="" />
@@ -104,13 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestRickTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork19" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRickTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRickTest" />
         <item itemvalue="JUnit.TestRickAndMortyModels" />
         <item itemvalue="JUnit.RickTest" />
         <item itemvalue="JUnit.RickTest.test1" />
         <item itemvalue="JUnit.TestRickAndMortyModels.test6" />
-        <item itemvalue="JUnit.TestRickAndMortyModels.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677789488126</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1677795618879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677795618879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
